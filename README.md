@@ -11,4 +11,9 @@ I like the mugen engine a lot I have spent some time using it. I enjoyed its cus
 * 3D characters (maybe not too sure on this one)
 
 
-I will keep updating this list as time goes on if more things come to mind. Some of these might be a bit ambitious but thats why I am posting my project in Github. If anyone would like to help me build this passion project of mine please contact me. The reason I have this project under the license that its on is because I want my engine to be very customizable. Some people may want to change how the character script works or similar things which is why I want them to have access to the files but I also would like for them to distribute the modifications so others can use it as well.
+I will keep updating this list as time goes on if more things come to mind. Some of these might be a bit ambitious but thats why I am posting my project in Github. If anyone would like to help me build this passion project of mine please contact me. The reason I have this project under the license that its on is because I want my engine to be very customizable. Some people may want to change how the character script works or similar things which is why I want them to have access to the files but I also would like for them to distribute the modifications so others can use it as well. Also a quick explanation of what was modified would be a great help.
+
+Things to note:
+* I am using the Multimedia Library SFML
+* The project is being written in C++
+* I am not as good in programming!
